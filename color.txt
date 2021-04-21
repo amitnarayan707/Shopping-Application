@@ -1,0 +1,6 @@
+body = f4f9f9
+ccf2f4
+a4ebf3
+text = aaaaaa
+Buy Button = #ffcc29
+error = ce1212
